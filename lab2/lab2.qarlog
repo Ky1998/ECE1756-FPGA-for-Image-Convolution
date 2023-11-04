@@ -1,0 +1,17 @@
+Quartus Prime Archive log --	/nfs/ug/homes-0/y/yuankaiy/Downloads/lab2-fpga/lab2_kaiyi_yuan.qarlog
+
+Archive:	/nfs/ug/homes-0/y/yuankaiy/Downloads/lab2-fpga/lab2_kaiyi_yuan.qar
+Date:		Thu Nov  2 21:51:07 2023
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Standard Edition
+
+	=========== Files Selected: ===========
+/cad1/Altera/20.1/quartus/linux64/assignment_defaults.qdf
+/nfs/ug/homes-0/y/yuankaiy/Downloads/lab2-fpga/SDC1.sdc
+/nfs/ug/homes-0/y/yuankaiy/Downloads/lab2-fpga/lab2.qpf
+/nfs/ug/homes-0/y/yuankaiy/Downloads/lab2-fpga/lab2.qsf
+/nfs/ug/homes-0/y/yuankaiy/Downloads/lab2-fpga/lab2.sv
+/nfs/ug/homes-0/y/yuankaiy/Downloads/lab2-fpga/lab2_tb.sv
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
